@@ -8,6 +8,32 @@
         "id": "https://wowjhow.github.io/os-bs1963/borom-sarret/canvas-1/canvas",
         "type": "Canvas",
         "duration": 1086.0,
+        "annotations": [
+          
+          {
+            "type": "AnnotationPage",
+            "id": "https://wowjhow.github.io/os-bs1963/annotations/borom-sarret-canvas-1-dialogue.json",
+            "label": {
+              "none": ["dialogue"]
+            }
+          }
+          ,
+          {
+            "type": "AnnotationPage",
+            "id": "https://wowjhow.github.io/os-bs1963/annotations/borom-sarret-canvas-1-music.json",
+            "label": {
+              "none": ["music"]
+            }
+          }
+          ,
+          {
+            "type": "AnnotationPage",
+            "id": "https://wowjhow.github.io/os-bs1963/annotations/borom-sarret-canvas-1-mes.json",
+            "label": {
+              "none": ["mes"]
+            }
+          }
+        ],
         "items": [
           {
             "id": "https://wowjhow.github.io/os-bs1963/borom-sarret/canvas-1/paintings",
