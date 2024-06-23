@@ -1,5 +1,5 @@
 ---
-layout: aviary
+layout: item
 title: Borom Sarret
 manifest_name: borom-sarret
 permalink: borom-sarret
