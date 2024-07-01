@@ -12,14 +12,6 @@
           
           {
             "type": "AnnotationPage",
-            "id": "https://wowjhow.github.io/os-bs1963/annotations/borom-sarret-canvas-1-dialogue.json",
-            "label": {
-              "none": ["dialogue"]
-            }
-          }
-          ,
-          {
-            "type": "AnnotationPage",
             "id": "https://wowjhow.github.io/os-bs1963/annotations/borom-sarret-canvas-1-dialogue-fr.json",
             "label": {
               "none": ["dialogue FR"]
