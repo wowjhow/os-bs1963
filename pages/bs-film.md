@@ -1,5 +1,5 @@
 ---
-layout: item
+layout: aviary
 title: BS Film
 manifest_name: bs-film
 permalink: bs-film
