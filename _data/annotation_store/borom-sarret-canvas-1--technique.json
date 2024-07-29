@@ -1,0 +1,39 @@
+{
+  "@context": "http://iiif.io/api/presentation/3/context.json",
+  "id": "https://wowjhow.github.io/os-bs1963/annotations/borom-sarret-canvas-1--technique.json",
+  "type": "AnnotationPage",
+  "label": "\"Technique",
+  "items": [
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "borom-sarret-canvas-1--technique-annotation-0.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "Broad shot of a church fades in from a black screen.",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": {
+          "id": "https://wowjhow.github.io/os-bs1963/borom-sarret/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://wowjhow.github.io/os-bs1963/borom-sarret/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "RangeSelector",
+          "t": "5.0,7.0"
+        }
+      }
+    }
+  ]
+}

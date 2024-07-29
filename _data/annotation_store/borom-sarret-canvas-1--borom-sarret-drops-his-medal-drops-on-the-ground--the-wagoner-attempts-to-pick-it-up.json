@@ -1,0 +1,39 @@
+{
+  "@context": "http://iiif.io/api/presentation/3/context.json",
+  "id": "https://wowjhow.github.io/os-bs1963/annotations/borom-sarret-canvas-1--borom-sarret-drops-his-medal-drops-on-the-ground--the-wagoner-attempts-to-pick-it-up.json",
+  "type": "AnnotationPage",
+  "label": " Borom Sarret drops his medal drops on the ground. The wagoner attempts to pick it up",
+  "items": [
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "borom-sarret-canvas-1--borom-sarret-drops-his-medal-drops-on-the-ground--the-wagoner-attempts-to-pick-it-up-annotation-0.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "\"Medal: As policeman analyzes the permit",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": {
+          "id": "https://wowjhow.github.io/os-bs1963/borom-sarret/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://wowjhow.github.io/os-bs1963/borom-sarret/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "RangeSelector",
+          "t": "836.0,840.0"
+        }
+      }
+    }
+  ]
+}

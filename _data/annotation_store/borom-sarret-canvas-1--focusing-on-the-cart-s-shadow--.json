@@ -1,0 +1,39 @@
+{
+  "@context": "http://iiif.io/api/presentation/3/context.json",
+  "id": "https://wowjhow.github.io/os-bs1963/annotations/borom-sarret-canvas-1--focusing-on-the-cart-s-shadow--.json",
+  "type": "AnnotationPage",
+  "label": " focusing on the cart's shadow.\"",
+  "items": [
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "borom-sarret-canvas-1--focusing-on-the-cart-s-shadow---annotation-0.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "\"The shot moves slightly down",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": {
+          "id": "https://wowjhow.github.io/os-bs1963/borom-sarret/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://wowjhow.github.io/os-bs1963/borom-sarret/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "RangeSelector",
+          "t": "192.0,196.0"
+        }
+      }
+    }
+  ]
+}

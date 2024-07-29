@@ -1,0 +1,39 @@
+{
+  "@context": "http://iiif.io/api/presentation/3/context.json",
+  "id": "https://wowjhow.github.io/os-bs1963/annotations/borom-sarret-canvas-1--which-pans-with-the-wagoner-and-the-man-as-they-pass--.json",
+  "type": "AnnotationPage",
+  "label": " which pans with the wagoner and the man as they pass.\"",
+  "items": [
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "borom-sarret-canvas-1--which-pans-with-the-wagoner-and-the-man-as-they-pass---annotation-0.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "\"Neutral shot of another street where the wagoner approaches the camera",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": {
+          "id": "https://wowjhow.github.io/os-bs1963/borom-sarret/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://wowjhow.github.io/os-bs1963/borom-sarret/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "RangeSelector",
+          "t": "759.0,773.0"
+        }
+      }
+    }
+  ]
+}
