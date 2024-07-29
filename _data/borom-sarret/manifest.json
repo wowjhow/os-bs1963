@@ -12,14 +12,6 @@
           
           {
             "type": "AnnotationPage",
-            "id": "https://wowjhow.github.io/os-bs1963/annotations/borom-sarret-canvas-1--wrapped-in-a-white-cloth.json",
-            "label": {
-              "none": [" wrapped in a white cloth"]
-            }
-          }
-          ,
-          {
-            "type": "AnnotationPage",
             "id": "https://wowjhow.github.io/os-bs1963/annotations/borom-sarret-canvas-1--adjacent-to-it.json",
             "label": {
               "none": [" adjacent to it"]
