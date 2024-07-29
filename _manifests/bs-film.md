@@ -1,6 +1,6 @@
 ---
 layout: manifest
-title: BS Film
+title: BS FILM
 manifest_name: bs-film
 
 ---
