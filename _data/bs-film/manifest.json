@@ -12,14 +12,6 @@
           
           {
             "type": "AnnotationPage",
-            "id": "https://wowjhow.github.io/os-bs1963/annotations/bs-film-canvas-1-analysis.json",
-            "label": {
-              "none": ["Analysis"]
-            }
-          }
-          ,
-          {
-            "type": "AnnotationPage",
             "id": "https://wowjhow.github.io/os-bs1963/annotations/bs-film-canvas-1-props.json",
             "label": {
               "none": ["Props"]
