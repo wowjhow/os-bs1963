@@ -12,14 +12,6 @@
           
           {
             "type": "AnnotationPage",
-            "id": "https://wowjhow.github.io/os-bs1963/annotations/borom-sarret-canvas-1--technique.json",
-            "label": {
-              "none": ["\"Technique"]
-            }
-          }
-          ,
-          {
-            "type": "AnnotationPage",
             "id": "https://wowjhow.github.io/os-bs1963/annotations/borom-sarret-canvas-1--but-switches-and-pans-on-main-character-as-he-is-moving-through-the-town-via-horse-and-cart--.json",
             "label": {
               "none": [" but switches and pans on main character as he is moving through the town via horse and cart.\""]
