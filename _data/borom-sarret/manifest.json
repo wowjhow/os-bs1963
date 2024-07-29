@@ -12,14 +12,6 @@
           
           {
             "type": "AnnotationPage",
-            "id": "https://wowjhow.github.io/os-bs1963/annotations/borom-sarret-canvas-1--near-his-heart.json",
-            "label": {
-              "none": [" near his heart"]
-            }
-          }
-          ,
-          {
-            "type": "AnnotationPage",
             "id": "https://wowjhow.github.io/os-bs1963/annotations/borom-sarret-canvas-1--but-as-they-enter-the-building.json",
             "label": {
               "none": [" but as they enter the building"]
