@@ -1,0 +1,31 @@
+{
+    "@context": "http://iiif.io/api/presentation/3/context.json",
+    "id": "https://wowjhow.github.io/os-bs1963/https-media-dlib-indiana-edu-media_objects-jd473p02z/manifest.json",
+    "type": "Manifest",
+    "label": { "en": [ "https://media.dlib.indiana.edu/media_objects/jd473p02z" ] },
+    "items": [
+      {
+        "id": "https://wowjhow.github.io/os-bs1963/https-media-dlib-indiana-edu-media_objects-jd473p02z/canvas-1/canvas",
+        "type": "Canvas",
+        "duration": 1086.0,
+        "items": [
+          {
+            "id": "https://wowjhow.github.io/os-bs1963/https-media-dlib-indiana-edu-media_objects-jd473p02z/canvas-1/paintings",
+            "type": "AnnotationPage",
+            "items": [
+              {
+                "id": "https://wowjhow.github.io/os-bs1963/https-media-dlib-indiana-edu-media_objects-jd473p02z/canvas-1/painting",
+                "type": "Annotation",
+                "motivation": "painting",
+                "body": {
+                  "id": "https://media.dlib.indiana.edu/media_objects/jd473p02z",
+                    "duration": 1086.0
+                },
+                "target": "https://wowjhow.github.io/os-bs1963/https-media-dlib-indiana-edu-media_objects-jd473p02z/canvas-1/canvas"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+} 
