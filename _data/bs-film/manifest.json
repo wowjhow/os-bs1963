@@ -8,6 +8,48 @@
         "id": "https://wowjhow.github.io/os-bs1963/bs-film/canvas-1/canvas",
         "type": "Canvas",
         "duration": 1086.0,
+        "annotations": [
+          
+          {
+            "type": "AnnotationPage",
+            "id": "https://wowjhow.github.io/os-bs1963/annotations/bs-film-canvas-1-technique.json",
+            "label": {
+              "none": ["Technique"]
+            }
+          }
+          ,
+          {
+            "type": "AnnotationPage",
+            "id": "https://wowjhow.github.io/os-bs1963/annotations/bs-film-canvas-1-props--analysis.json",
+            "label": {
+              "none": ["Props, Analysis"]
+            }
+          }
+          ,
+          {
+            "type": "AnnotationPage",
+            "id": "https://wowjhow.github.io/os-bs1963/annotations/bs-film-canvas-1-technique--analysis.json",
+            "label": {
+              "none": ["Technique, Analysis"]
+            }
+          }
+          ,
+          {
+            "type": "AnnotationPage",
+            "id": "https://wowjhow.github.io/os-bs1963/annotations/bs-film-canvas-1-analysis.json",
+            "label": {
+              "none": ["Analysis"]
+            }
+          }
+          ,
+          {
+            "type": "AnnotationPage",
+            "id": "https://wowjhow.github.io/os-bs1963/annotations/bs-film-canvas-1-props.json",
+            "label": {
+              "none": ["Props"]
+            }
+          }
+        ],
         "items": [
           {
             "id": "https://wowjhow.github.io/os-bs1963/bs-film/canvas-1/paintings",
