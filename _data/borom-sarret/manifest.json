@@ -12,14 +12,6 @@
           
           {
             "type": "AnnotationPage",
-            "id": "https://wowjhow.github.io/os-bs1963/annotations/borom-sarret-canvas-1--which-is-presumably-prohibited--.json",
-            "label": {
-              "none": [" which is presumably prohibited.\""]
-            }
-          }
-          ,
-          {
-            "type": "AnnotationPage",
             "id": "https://wowjhow.github.io/os-bs1963/annotations/borom-sarret-canvas-1--near-his-heart.json",
             "label": {
               "none": [" near his heart"]
