@@ -2,7 +2,7 @@
     "@context": "http://iiif.io/api/presentation/3/context.json",
     "id": "https://wowjhow.github.io/os-bs1963/bs-film/manifest.json",
     "type": "Manifest",
-    "label": { "en": [ "BS FILM" ] },
+    "label": { "en": [ "https://media.dlib.indiana.edu/media_objects/jd473p02z" ] },
     "items": [
       {
         "id": "https://wowjhow.github.io/os-bs1963/bs-film/canvas-1/canvas",
