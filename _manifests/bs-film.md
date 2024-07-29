@@ -1,6 +1,6 @@
 ---
 layout: manifest
-title: https://media.dlib.indiana.edu/media_objects/jd473p02z
+title: Borom Sarret Film
 manifest_name: bs-film
 
 ---
