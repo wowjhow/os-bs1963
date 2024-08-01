@@ -1,5 +1,5 @@
 ---
-layout: item
+layout: aviary
 title: Borom Sarret movie
 manifest_name: borom-sarret-movie
 permalink: borom-sarret-movie
