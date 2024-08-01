@@ -12,6 +12,14 @@
           
           {
             "type": "AnnotationPage",
+            "id": "https://wowjhow.github.io/os-bs1963/annotations/borom-sarret-movie-canvas-1-music.json",
+            "label": {
+              "none": ["music"]
+            }
+          }
+          ,
+          {
+            "type": "AnnotationPage",
             "id": "https://wowjhow.github.io/os-bs1963/annotations/borom-sarret-movie-canvas-1-action.json",
             "label": {
               "none": ["Action"]
@@ -23,6 +31,30 @@
             "id": "https://wowjhow.github.io/os-bs1963/annotations/borom-sarret-movie-canvas-1-analysis.json",
             "label": {
               "none": ["Analysis"]
+            }
+          }
+          ,
+          {
+            "type": "AnnotationPage",
+            "id": "https://wowjhow.github.io/os-bs1963/annotations/borom-sarret-movie-canvas-1-dialogue-en.json",
+            "label": {
+              "none": ["dialogue EN"]
+            }
+          }
+          ,
+          {
+            "type": "AnnotationPage",
+            "id": "https://wowjhow.github.io/os-bs1963/annotations/borom-sarret-movie-canvas-1-dialogue-fr.json",
+            "label": {
+              "none": ["dialogue FR"]
+            }
+          }
+          ,
+          {
+            "type": "AnnotationPage",
+            "id": "https://wowjhow.github.io/os-bs1963/annotations/borom-sarret-movie-canvas-1-mes.json",
+            "label": {
+              "none": ["mes"]
             }
           }
           ,
