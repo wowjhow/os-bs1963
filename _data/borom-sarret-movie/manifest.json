@@ -84,7 +84,9 @@
                 "type": "Annotation",
                 "motivation": "painting",
                 "body": {
-                  "id": "https://media.dlib.indiana.edu/media_objects/jd473p02z",
+                  "id": "https://dlib.indiana.edu/avannotate/bouchard/borom_sarret__540p_-high.mp4",
+                    "type": "Video",
+                    "format": "video/mp4",
                     "duration": 1086.0
                 },
                 "target": "https://wowjhow.github.io/os-bs1963/borom-sarret-movie/canvas-1/canvas"
